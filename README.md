@@ -1,9 +1,9 @@
 # Mind-Map
 ☮各种安全相关思维导图整理收集
 
-部分来自[phith0n](https://github.com/phith0n/Mind-Map)
+部分来自[phith0n](https://github.com/phith0n/Mind-Map)，感谢！
 
-补充了一部分编程专业的脑图
+补充了一部分编程专业的脑图。
 
 ## 运维：
 
