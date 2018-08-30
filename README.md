@@ -1,5 +1,11 @@
 # Mind-Map
-☮各种安全相关思维导图整理收集  
+☮各种安全相关思维导图整理收集
+
+部分来自[phith0n](https://github.com/phith0n/Mind-Map)
+
+补充了一部分编程专业的脑图
+
+## 运维：
 
 #### [运维安全](https://raw.githubusercontent.com/phith0n/Mind-Map/master/%E8%BF%90%E7%BB%B4%E5%AE%89%E5%85%A8.png)  
 #### [渗透的艺术](https://raw.githubusercontent.com/phith0n/Mind-Map/master/%E6%B8%97%E9%80%8F%E7%9A%84%E8%89%BA%E6%9C%AF.jpg)
@@ -23,5 +29,27 @@
 #### [Linux Security Coaching](https://raw.githubusercontent.com/phith0n/Mind-Map/master/Linux%20Security%20Coaching.png)
 #### [入门二进制漏洞分析脑图](https://raw.githubusercontent.com/phith0n/Mind-Map/master/入门二进制漏洞分析脑图.png)
 #### [nmap渗透测试指南](https://raw.githubusercontent.com/phith0n/Mind-Map/master/nmap渗透测试指南.png)
-#### [Meterpreter Cheat Sheet](https://raw.githubusercontent.com/phith0n/Mind-Map/master/Meterpreter Cheat Sheet.pdf)
+
+#### [Meterpreter Cheat Sheet](https://raw.githubusercontent.com/phith0n/Mind-Map/master/Meterpreter%20Cheat%20%20Sheet.pdf)
+
 #### [JavaWeb应用安全](https://raw.githubusercontent.com/phith0n/Mind-Map/master/JavaWeb应用安全.png)
+#### [金融安全脑图](https://raw.githubusercontent.com/phith0n/Mind-Map/master/金融安全脑图.jpg)
+#### [GIT学习脑图](https://raw.githubusercontent.com/phith0n/Mind-Map/master/GIT学习脑图.jpg)
+#### [入侵感知体系](https://raw.githubusercontent.com/phith0n/Mind-Map/master/入侵感知体系.jpg)
+#### [Python代码审计脑图](https://raw.githubusercontent.com/phith0n/Mind-Map/master/Python代码审计脑图.jpg)
+#### [WIKI渗透测试流程图](https://raw.githubusercontent.com/phith0n/Mind-Map/master/WIKI渗透测试流程图.png)
+
+#### [互联网企业安全建设](https://raw.githubusercontent.com/phith0n/Mind-Map/master/互联网企业安全建设.png)
+
+#### [安全技能树](https://raw.githubusercontent.com/phith0n/Mind-Map/master/安全技能树.png)
+
+#### [业务安全脑图](https://raw.githubusercontent.com/phith0n/Mind-Map/master/业务安全脑图.jpg)
+
+#### [web-内网基本流程小结](https://raw.githubusercontent.com/phith0n/Mind-Map/master/web-内网基本流程小结.jpg)
+
+#### [Web架构中的安全问题](https://raw.githubusercontent.com/phith0n/Mind-Map/master/Web架构中的安全问题.png)
+
+#### [域名搜集途径](https://raw.githubusercontent.com/phith0n/Mind-Map/master/域名搜集途径.png)
+
+#### [2018年信息安全从业者书单推荐](https://raw.githubusercontent.com/phith0n/Mind-Map/master/2018年信息安全从业者书单推荐.jpg)
+
