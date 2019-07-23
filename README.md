@@ -1,11 +1,16 @@
 # Mind-Map
 ☮各种安全相关思维导图整理收集
 
-部分来自[phith0n](https://github.com/phith0n/Mind-Map)，感谢！
+☮软件工程相关思维导图整理收集
+
+部分运维脑图来自[phith0n](https://github.com/phith0n/Mind-Map)，感谢！
 
 补充了一部分编程专业的脑图。
+包括前端、Python、C#、微服务、数据库、.NET技术框架、编译原理、网络原理、组成原理、操作系统、软件测试、信息安全、软件建模Linux等XMind图。
 
-## 运维：
+---------
+
+下面列举了部分XMind图，有些知识点的脑图可能会有重复，多多益善，大家择优学习。项目还在维护当中，欢迎大家PR补充...
 
 #### [运维安全](https://raw.githubusercontent.com/phith0n/Mind-Map/master/%E8%BF%90%E7%BB%B4%E5%AE%89%E5%85%A8.png)  
 #### [渗透的艺术](https://raw.githubusercontent.com/phith0n/Mind-Map/master/%E6%B8%97%E9%80%8F%E7%9A%84%E8%89%BA%E6%9C%AF.jpg)
@@ -52,4 +57,5 @@
 #### [域名搜集途径](https://raw.githubusercontent.com/phith0n/Mind-Map/master/域名搜集途径.png)
 
 #### [2018年信息安全从业者书单推荐](https://raw.githubusercontent.com/phith0n/Mind-Map/master/2018年信息安全从业者书单推荐.jpg)
+
 
